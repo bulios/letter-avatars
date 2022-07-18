@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php": ">=8.1",
+        "lasserafn/php-initial-avatar-generator": "^4.2"
+    }
+}
